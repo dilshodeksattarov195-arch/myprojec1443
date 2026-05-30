@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorualculate",
+        "uuid": 9393930,
+        "checksum": "jfgzv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
